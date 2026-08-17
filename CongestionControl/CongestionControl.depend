@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1657011481 source:c:\users\abhilash madhav m\onedrive\desktop\mini projects\congestioncontrol\main.c
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdbool.h>
+	<glut.h>
+
